@@ -1,0 +1,53 @@
+# 🔹 Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 🔹 Virtual Environment
+.venv/
+venv/
+env/
+
+# 🔹 Environment variables
+.env
+.env.*
+
+# 🔹 Logs
+*.log
+
+# 🔹 OS files
+.DS_Store
+Thumbs.db
+
+# 🔹 VS Code
+.vscode/
+
+# 🔹 Jupyter Notebook
+.ipynb_checkpoints/
+
+# 🔹 dbt
+target/
+dbt_packages/
+logs/
+
+# 🔹 Snowflake / temp data
+*.csv
+*.parquet
+*.json
+
+# 🔹 Build / Distribution
+build/
+dist/
+*.egg-info/
+
+# 🔹 uv (if using)
+.venv/
+.python-version
+
+# 🔹 IDEs
+.idea/
+
+# 🔹 Misc
+*.tmp
+*.bak
