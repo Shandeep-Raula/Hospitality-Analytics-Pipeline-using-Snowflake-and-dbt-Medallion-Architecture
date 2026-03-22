@@ -52,6 +52,5 @@ dist/
 *.tmp
 *.bak
 
-pyproject.toml
-uv.lock
-main.py
+*.toml
+*.lock
