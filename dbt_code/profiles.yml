@@ -1,14 +1,14 @@
 dbt_code:
   outputs:
     dev:
-      account: EKZDBYZ-TS53073
-      database: AIRBNB
-      password: Shandeep@200311
-      role: ACCOUNTADMIN
-      schema: DBT_SCHEMA
+      account: YOUR ACCOUNT IDENTIFIER
+      database: YOUR DATABASE
+      password: YOUR PASSWORD
+      role: YOUR ROLE
+      schema: YOUR SCHEMA
       threads: 1
       type: snowflake
-      user: SHANDEEP
-      warehouse: COMPUTE_WH
+      user: USER NAME
+      warehouse: WAREHOUSE NAME
   target: dev
 
