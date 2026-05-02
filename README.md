@@ -77,7 +77,5 @@ dbt is used across all layers to:
 - Build models
 - Manage dependencies
 - Run transformations
-- Implement testing (data quality checks)
-
----
+- Implement testing (data quality checks)
 
