@@ -5,6 +5,7 @@ It ingests raw CSV data, processes it through layered transformations, and deliv
 
 ---
 
+
 ## 🖼️ Architecture Diagram
 ![Architecture](Fig/Architecture.png)
 
